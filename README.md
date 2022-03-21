@@ -12,14 +12,16 @@ Tools & Languages
 
 Routine to develop
 -
-'''mermaid
+```mermaid
   graph TD;
-    to analyse --> to define;
-    to define --> to code;
-    to test --> to improve;
-    to improve --> to test;
-    to test --> to produce;
- '''
+    analyse-->define;
+    define-->code;
+    code-->test;
+    test-->improve;
+    improve-->retest;
+    retest-->produce;
+    produce-->analyse;
+```
     
   
 <!--
