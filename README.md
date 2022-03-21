@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello world, It's atlnet62.
+- 🌱 I’m currently learning 
+- I 'm a futur full stack JS Engineer.
 
 <!--
 **atlnet62/atlnet62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
