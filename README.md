@@ -11,9 +11,11 @@ Tools & Languages
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
 Statistics
+-
 ![GHstats](https://github-readme-stats.vercel.app/api?username=atlnet62&how_icons=true&theme=react)
 
 <!--
+
 Routine to develop
 -
 ```mermaid
@@ -26,7 +28,8 @@ Routine to develop
     retest-->produce;
     produce-->analyse;
 ```
-  
+
+-->  
 **atlnet62/atlnet62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
