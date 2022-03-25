@@ -12,4 +12,4 @@ Tools & Languages
 
 Statistics
 -
-![GHstats](https://github-readme-stats.vercel.app/api?username=atlnet62&how_icons=true&theme=react)
+![GHstats](https://github-readme-stats.vercel.app/api?username=atlnet62&how_icons=true&theme=github_dark)
