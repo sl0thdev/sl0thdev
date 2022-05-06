@@ -2,7 +2,6 @@ Presentation
 -
 Hello world, It's atlnet62.
 - 🌱 I’m currently learning 
-- I 'm a futur full stack JS Engineer.
 
 Tools & Languages
 -
