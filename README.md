@@ -1,7 +1,6 @@
 Presentation
 -
-Hello world, It's D. Webb
-- 🌱 I’m currently learning 
+Hello world, It's L Ludovic
 
 Tools & Languages
 -
