@@ -8,7 +8,7 @@ In fact I developped some apps (like portal manager in php since 2015 => changed
 
 This is a passion and my job now ...
 
-# Tools & Languages
+# Tools & Stacks
 
 ### OPERATING SYSTEM 
 
@@ -37,3 +37,7 @@ This is a passion and my job now ...
 - REDUX, CONTEXT, AXIOS
 - JEST, REACT TESTING LIBRARY
 - HEROKU
+
+# Languages 
+
+French & English
