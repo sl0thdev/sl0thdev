@@ -7,8 +7,11 @@ Tools & Languages
 OS :
 <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 
+WEB SERVER : 
+<img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
+
 BACK END : 
-<img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" /> <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> 
+<img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> 
 <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
 FRONT-END :
