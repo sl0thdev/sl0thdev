@@ -1,5 +1,5 @@
-Presentation
--
+# Presentation
+
 Hello world, I'm Ludovic, Fullstack developer JS. 
 
 After 14 years in supplier quality in product development, I'm come back inside the development web apps.
@@ -8,25 +8,29 @@ In fact I developped some apps (like portal manager in php since 2015 => changed
 
 This is a passion and my job now ...
 
-Tools & Languages
--
-OS :
-<img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+# Tools & Languages
 
-WEB SERVER : 
-<img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
+### OPERATING SYSTEM 
 
-BACK END : 
-<img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> 
-<img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 
-FRONT-END :
-<img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+### WEB SERVER 
 
-DATABASE :
-<img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
 
-MAIN -FRAMEWORK, -PACKAGES, -TEST, -VCS : 
+### BACK END 
+
+<img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+### FRONT-END 
+
+<img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+### DATABASE 
+
+<img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+
+### MAIN -FRAMEWORK, -PACKAGES, -TEST, -VCS : 
 - NPM
 - BABEL
 - EXPRESS, DOTENV, JWT
