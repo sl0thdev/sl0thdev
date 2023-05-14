@@ -4,7 +4,7 @@ Hello world, I'm Ludovic, Fullstack developer JS.
 
 After 14 years in supplier quality in product development, I'm come back inside the development web apps.
 
-In fact I developped some apps (like portal manager in php since 2015 => changed in JS since 2021 (https://pm.2lsoft.fr) and some website since 2007 (old lareu.net >> lareu.fr and some internal apps)) during my free time to learn and to follow the different stacks and different evolutions. 
+In fact I developped some apps (like portal manager in php since 2015 => changed in JS since 2021 (https://pm.2lsoft.fr) and some website since 2007 (old lareu.net >> lareu.fr and some internal apps) during my free time to learn and to follow the different stacks and different evolutions. 
 
 This is a passion and my job now ...
 
