@@ -10,33 +10,19 @@ This is a passion and my job now ...
 
 # Tools & Stacks
 
-### OPERATING SYSTEM 
+### STACKS 
 
-<img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+<img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
 
-### WEB SERVER 
+<img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
 
-<img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
+<img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 
-### BACK END 
+### MAIN -FRAMEWORK, -PACKAGES, -TEST, -VCS :
 
-<img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
-### FRONT-END 
-
-<img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
-### DATABASE 
-
-<img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-
-### MAIN -FRAMEWORK, -PACKAGES, -TEST, -VCS : 
 - NPM
-- BABEL
-- EXPRESS, DOTENV, JWT
-- REDUX, CONTEXT, AXIOS
-- JEST, REACT TESTING LIBRARY
-- HEROKU
+- VITE
+- VITEST, REACT TESTING LIBRARY
 
 # Languages 
 
